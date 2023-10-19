@@ -1,3 +1,10 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+
 .card1{
 width: 626px;
 height: 626px;
@@ -16,6 +23,16 @@ padding-bottom: 200px;
     flex-direction: row;
     gap: 100px;
 }
+
+.box-degrade{
+width: 100%;
+padding: 300px 0;
+display: flex;
+background-image: linear-gradient(to left, blue);
+
+
+
+    }
   
 
 
