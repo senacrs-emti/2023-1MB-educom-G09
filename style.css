@@ -3,7 +3,9 @@
     color: brown;
     color: #fff;
 }
-
+html {
+    scroll-behavior: smooth;
+  }
 header{
     width: 100%;
     height: 500px;
@@ -53,6 +55,8 @@ nav li a:hover{
     height: 60px;
 }
 
+
+
 main{
     width: 100%;
     height: 800px;
@@ -63,6 +67,7 @@ footer{
     height: 300px;
     background-color: #fff;
 }
+
 
 
 
