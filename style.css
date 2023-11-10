@@ -40,9 +40,20 @@ main{
 }
     .btn{
         padding-top: 10px;
-        
-
     }
+
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.5rem;
+}
+
+.card-title {
+    margin-bottom: 0.75rem;
+    padding-bottom: 3px;
+}
 
 footer{
     width: 100%;
