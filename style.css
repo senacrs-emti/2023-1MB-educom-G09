@@ -51,6 +51,6 @@ footer{
     background-color: #fff;
 }
 
-.cards.{
-  padding-left: 10px;
+.cards-wrapper{
+  column-gap: 15px;
 }
