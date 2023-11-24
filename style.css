@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Poppins:wght@300;400;500;600&display=swap');
 :root{
     color: blue;
     color: brown;
@@ -57,7 +58,22 @@ nav li a:hover{
     width: 60px;
     height: 60px;
 }
-
+.logotxt{
+    display: flex;
+    align-items: center;
+    font-family: 'inter', sans-serif;
+}
+.logotxt h1{
+    color: #fff;
+    padding-right: 750px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.logotxt a{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
 
 /*main*/ 
 
@@ -78,6 +94,7 @@ main{
   .container{
       padding-top: 4%;
       padding-left: 6%;
+     
   }
   
   .cards-wrapper{
