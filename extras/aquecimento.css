@@ -54,6 +54,7 @@ nav li a{
 }
 nav li a:hover{ 
   background-color: white;
+  color: #2276AC;
 }
 .logo img{
   width: 60px;
@@ -77,6 +78,9 @@ nav li a:hover{
   font-family: 'Inter', sans-serif;
   font-family: 'Poppins', sans-serif;
   
+}
+.logotxt a:hover{
+  color: black;
 }
 
 
