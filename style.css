@@ -65,7 +65,7 @@ nav li a:hover{
 }
 .logotxt h1{
     color: #fff;
-    padding-right: 750px;
+    padding-right: 430px;
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
@@ -73,7 +73,11 @@ nav li a:hover{
     color: #fff;
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
+    transition: 0.3s;
 }
+.logotxt a:hover{
+    color: black;
+  }
 
 /*main*/ 
 
