@@ -77,6 +77,7 @@ nav{
    font-family: 'Inter', sans-serif;
    font-family: 'Poppins', sans-serif;
    padding-right: 80px;
+   transition: 0.3s;
  }
  .logotxt a:hover{
    color: black;
