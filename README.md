@@ -4,8 +4,6 @@
   <img src="img p github/MicrosoftTeams-image (1).png"
   <img src="img p github/MicrosoftTeams-image (2).png" 
   
-</div>
-
 <br>
 
 > Site desenvolvido como tarefa do técnico, simulando um Site de Nasa, falando sobre Informoações sobre o aquecimento global e etc.
