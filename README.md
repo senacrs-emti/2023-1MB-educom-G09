@@ -43,13 +43,5 @@ O projeto está Finalizado, ficou sim pedente algumas correções que gostariamo
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/zsmtlj">
-        <img src="" width="125px;" alt="Foto do José Pedro no Github"/><br>
-        <sub>
-          <b style="font-size: 13px;">José</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
