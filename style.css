@@ -19,7 +19,7 @@ header{
 
 }
 nav{
-    background-color: #2276AC;
+    background-color: #F7cd23;
     padding: 10px 150px;
     display: flex;
     justify-content: space-between;
@@ -76,7 +76,7 @@ nav li a:hover{
     transition: 0.3s;
 }
 .logotxt a:hover{
-    color: black;
+    color: #007bff;
   }
 
 /*main*/ 
@@ -207,3 +207,14 @@ footer a{
     padding-top: 20px;
 }
 
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .card img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  
