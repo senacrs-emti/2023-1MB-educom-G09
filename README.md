@@ -1,8 +1,8 @@
 # Planeta Alerta
 
-  <img src="img p github/MicrosoftTeams-image.png"
-  <img src="img p github/MicrosoftTeams-image (1).png"
-  <img src="img p github/MicrosoftTeams-image (2).png" 
+  <img src="img p github/MicrosoftTeams-image.png">
+  <img src="img p github/MicrosoftTeams-image (1).png">
+  <img src="img p github/MicrosoftTeams-image (2).png">
   
 <br>
 
